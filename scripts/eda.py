@@ -28,12 +28,13 @@ class EDA:
     def missing_values(self):        
         if True in self.df.isnull().any().to_list():
             count_missing = print("The number of missing value(s): {}".format(self.df.isnull().sum().sum()))
-            column_missing_velues = print("Columns having missing columns value:{}".format(self.df.columns[user_data.isnull().any()]))
+            column_missing_velues = print("Columns having missing columns value:{}".format(self.df.columns[self.df.isnull().any()]))
+            
         else:
             count_missing = "NO MISSING VALUES"
             column_missing_values = "No Column missing Values"
             
-        return has_missing_values, column_missing_velues
+        return count_missing, column_missing_velues
 
     
     def plot_counts(self, column, second_column=None, type=None):
@@ -67,9 +68,9 @@ class EDA:
         return self.df
 
 
-if __name__ == '__main__':
-    file_path = sys.argv[1]
-    df = pd.read_csv(file_path)
-    eda = EDA(df)
-    eda_df = eda.get_df()
-    eda_df.to_csv("data/eda.csv", index=False)
+# if __name__ == '__main__':
+#     file_path = sys.argv[1]
+#     df = pd.read_csv(file_path)
+#     eda = EDA(df)
+#     eda_df = eda.get_df()
+#     eda_df.to_csv("data/eda.csv", index=False)
