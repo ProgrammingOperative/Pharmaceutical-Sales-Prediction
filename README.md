@@ -36,14 +36,9 @@ Files in the data include:
 
 
 
-
-# Installation
-
-
-
-
 # ML Pipeline Design
 
+![](images/diagram.png)
 
 
 
