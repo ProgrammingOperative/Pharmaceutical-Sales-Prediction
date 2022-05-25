@@ -38,7 +38,7 @@ Files in the data include:
 
 # ML Pipeline Design
 
-![](images/diagram.png)
+![](images/WD_3.png)
 
 
 
