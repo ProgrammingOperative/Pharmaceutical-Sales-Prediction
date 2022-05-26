@@ -41,6 +41,7 @@ def add_month_year(df):
   new_df['Month'] = df['Date'].dt.month
   new_df['Day'] = df['Date'].dt.day
   new_df['WeekOfYear'] = df['Date'].dt.weekofyear
+  new_df['DayOfWeekName'] = df['Date'].dt.weekday_name
   return new_df
 
 def eval_metrics(actual, pred):
