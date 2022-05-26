@@ -4538,3 +4538,12 @@ DEBUG - 2022-05-26 22:39:43,453 - Loaded backend module://matplotlib_inline.back
 INFO - 2022-05-26 22:40:52,913 - util.py - Year, Month, Day, WeekOfYear for Dataframe
 INFO - 2022-05-26 22:42:03,047 - util.py - Year, Month, Day, WeekOfYear for Dataframe
 INFO - 2022-05-26 22:42:18,118 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+DEBUG - 2022-05-26 23:31:43,296 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+DEBUG - 2022-05-26 23:31:43,336 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-26 23:31:46,291 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-26 23:32:04,033 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 00:08:28,780 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+DEBUG - 2022-05-27 01:10:00,369 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+DEBUG - 2022-05-27 01:10:00,374 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-27 01:10:03,485 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 01:10:19,140 - util.py - calculate null percentage: 11.87
