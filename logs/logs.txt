@@ -4534,3 +4534,7 @@ DEBUG - 2022-05-26 19:34:02,931 - top of Axes not in the figure, so title not mo
 DEBUG - 2022-05-26 19:34:02,953 - top of Axes not in the figure, so title not moved
 DEBUG - 2022-05-26 19:34:02,977 - top of Axes not in the figure, so title not moved
 DEBUG - 2022-05-26 19:34:03,005 - top of Axes not in the figure, so title not moved
+DEBUG - 2022-05-26 22:39:43,453 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-26 22:40:52,913 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-26 22:42:03,047 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-26 22:42:18,118 - util.py - Year, Month, Day, WeekOfYear for Dataframe
