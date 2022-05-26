@@ -4528,3 +4528,9 @@ INFO - 2022-05-26 19:29:22,902 - util.py - get assortment for value of c
 INFO - 2022-05-26 19:29:29,171 - util.py - get assortment for value of a
 INFO - 2022-05-26 19:29:29,171 - util.py - get assortment for value of b
 INFO - 2022-05-26 19:29:29,171 - util.py - get assortment for value of c
+DEBUG - 2022-05-26 19:34:02,869 - locator: <matplotlib.ticker.AutoLocator object at 0x000002A1A016F490>
+DEBUG - 2022-05-26 19:34:02,895 - top of Axes not in the figure, so title not moved
+DEBUG - 2022-05-26 19:34:02,931 - top of Axes not in the figure, so title not moved
+DEBUG - 2022-05-26 19:34:02,953 - top of Axes not in the figure, so title not moved
+DEBUG - 2022-05-26 19:34:02,977 - top of Axes not in the figure, so title not moved
+DEBUG - 2022-05-26 19:34:03,005 - top of Axes not in the figure, so title not moved
