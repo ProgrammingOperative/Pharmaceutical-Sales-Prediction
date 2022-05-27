@@ -8023,3 +8023,6 @@ DEBUG - 2022-05-27 11:37:12,699 - findfont: score(FontEntry(fname='C:\\Windows\\
 DEBUG - 2022-05-27 11:37:12,699 - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\simsun.ttc', name='SimSun', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
 DEBUG - 2022-05-27 11:37:12,699 - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('C:\\Windows\\Fonts\\arial.ttf') with score of 0.050000.
 DEBUG - 2022-05-27 12:19:15,874 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+DEBUG - 2022-05-27 12:55:42,486 - Popen(['git', 'version'], cwd=D:\10 Academy\Week 3\Pharmaceutical-Sales-Prediction\notebooks, universal_newlines=False, shell=None, istream=None)
+DEBUG - 2022-05-27 12:55:42,673 - Popen(['git', 'version'], cwd=D:\10 Academy\Week 3\Pharmaceutical-Sales-Prediction\notebooks, universal_newlines=False, shell=None, istream=None)
+DEBUG - 2022-05-27 12:55:42,794 - Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
