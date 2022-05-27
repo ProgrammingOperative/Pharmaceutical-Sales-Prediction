@@ -7637,4 +7637,8 @@ INFO - 2022-05-27 09:57:03,112 - util.py - calculate null percentage: 9.71
 DEBUG - 2022-05-27 10:03:57,289 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
 INFO - 2022-05-27 10:03:59,450 - util.py - Year, Month, Day, WeekOfYear for Dataframe
 INFO - 2022-05-27 10:04:00,570 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+<<<<<<< HEAD
 INFO - 2022-05-27 10:04:02,901 - util.py - calculate null percentage: 9.71
+=======
+INFO - 2022-05-27 10:04:02,901 - util.py - calculate null percentage: 9.71
+>>>>>>> 6a64b69f8806d02301dfe6fb9926aa08608a7e0a
