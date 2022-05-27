@@ -7606,3 +7606,35 @@ DEBUG - 2022-05-27 08:01:21,570 - findfont: score(FontEntry(fname='C:\\Windows\\
 DEBUG - 2022-05-27 08:01:21,570 - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\BOOKOSI.TTF', name='Bookman Old Style', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
 DEBUG - 2022-05-27 08:01:21,570 - findfont: score(FontEntry(fname='C:\\Windows\\Fonts\\simsun.ttc', name='SimSun', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
 DEBUG - 2022-05-27 08:01:21,570 - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=14.0 to Arial ('C:\\Windows\\Fonts\\arial.ttf') with score of 0.050000.
+DEBUG - 2022-05-27 09:15:01,820 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-27 09:15:03,916 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:15:04,996 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:15:06,660 - util.py - calculate null percentage: 9.71
+DEBUG - 2022-05-27 09:19:33,971 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-27 09:19:35,869 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:19:36,955 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:19:38,541 - util.py - calculate null percentage: 9.71
+DEBUG - 2022-05-27 09:36:13,636 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-27 09:36:15,420 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:36:16,503 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:36:18,211 - util.py - calculate null percentage: 9.71
+DEBUG - 2022-05-27 09:38:26,616 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-27 09:38:28,676 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:38:29,706 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:38:31,372 - util.py - calculate null percentage: 9.71
+DEBUG - 2022-05-27 09:44:49,674 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-27 09:44:51,505 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:44:52,623 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:44:54,221 - util.py - calculate null percentage: 9.71
+DEBUG - 2022-05-27 09:50:16,339 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-27 09:50:18,309 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:50:20,179 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:50:22,278 - util.py - calculate null percentage: 9.71
+DEBUG - 2022-05-27 09:56:58,598 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-27 09:57:00,736 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:57:01,641 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 09:57:03,112 - util.py - calculate null percentage: 9.71
+DEBUG - 2022-05-27 10:03:57,289 - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+INFO - 2022-05-27 10:03:59,450 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 10:04:00,570 - util.py - Year, Month, Day, WeekOfYear for Dataframe
+INFO - 2022-05-27 10:04:02,901 - util.py - calculate null percentage: 9.71
