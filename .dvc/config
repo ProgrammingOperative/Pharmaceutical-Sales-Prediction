@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = D:\10 Academy\DATA AND DATABASES\RossmanData
